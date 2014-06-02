@@ -1,7 +1,7 @@
 Work in progress
 ----------------
 
-This is a port of my thesis work from R to Python using the scikit-learn.
+This is a port of my thesis work from R to Python using the scikit-learn library.
 
 Thesis: Prediction of Fault-Prone Software Modules.
 
